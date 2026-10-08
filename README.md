@@ -5,13 +5,13 @@
 
 Soy Mario Rodríguez Yuste, estudiante de Sistemas Microinformáticos y Redes (SMR).
 
-Me interesa el mundo de la informática, especialmente los sistemas, el hardware, las redes y la programación. Durante mi formación he aprendido a montar y mantener equipos informáticos, instalar sistemas operativos y trabajar con redes.
+Me interesa el mundo de la informática, especialmente los sistemas, el hardware, las redes y la programación. He aprendido a montar y mantener equipos informáticos, instalar sistemas operativos y trabajar con redes.
 
 También me interesa el desarrollo web y me gustaria seguir aprendiendo y poner en práctica lo que sé.
 
 En este perfil comparto mi historia relacionada con la informática.
 
-Cosas mas profunda sobre mi :E echo muchos deportes como natación, futbol, tenis, ping pong , boxeo y todos estos deportes me han ayudado a crecer como persona y me a enseñado cosas como el compañerismo que es muy importante
+Cosas mas intimas sobre mi :E echo muchos deportes como natación, futbol, tenis, ping pong , boxeo y todos estos deportes me han ayudado a crecer como persona y me a enseñado cosas como el compañerismo que es muy importante
 
 ---
 
@@ -38,7 +38,6 @@ Cosas mas profunda sobre mi :E echo muchos deportes como natación, futbol, teni
 - CSS basico.
 - JavaScript basico.
 - Python basico.
-- Fundamentos de programación.
 - Creación de páginas web mediante IA
 
 ---
@@ -61,7 +60,7 @@ Durante mi formación he trabajado con:
 
 ## Proyectos
 
-En este perfil iré lo aprendido relacionado con la informática, los sistemas, las redes y la programación.
+En este perfil iré subiendo lo aprendido relacionado con la informática, los sistemas, las redes y la programación.
 
 Mi objetivo es seguir aprendiendo, mejorar mis conocimientos y desarrollar conocimiento que me ayuden a crecer en el mundo de la informática.
 
